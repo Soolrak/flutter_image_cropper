@@ -70,7 +70,8 @@ class ImageCropper {
       CropAspectRatioPreset.square,
       CropAspectRatioPreset.ratio3x2,
       CropAspectRatioPreset.ratio4x3,
-      CropAspectRatioPreset.ratio16x9
+      CropAspectRatioPreset.ratio16x9,
+      CropAspectRatioPreset.ratio9x16
     ],
     CropStyle cropStyle = CropStyle.rectangle,
     ImageCompressFormat compressFormat = ImageCompressFormat.jpg,
